@@ -1606,6 +1606,9 @@ class EditContactActivity : ContactActivity() {
         getString(R.string.hangouts) -> Im.PROTOCOL_GOOGLE_TALK
         getString(R.string.icq) -> Im.PROTOCOL_ICQ
         getString(R.string.jabber) -> Im.PROTOCOL_JABBER
+        getString(R.string.matrix) -> Im.PROTOCOL_MATRIX
+        getString(R.string.fediverse) -> Im.PROTOCOL_FEDIVERSE
+        getString(R.string.instagram) -> Im.PROTOCOL_INSTAGRAM
         else -> Im.PROTOCOL_CUSTOM
     }
 }
