@@ -200,6 +200,9 @@ abstract class ContactActivity : SimpleActivity() {
                     Im.PROTOCOL_QQ -> R.string.qq
                     Im.PROTOCOL_GOOGLE_TALK -> R.string.hangouts
                     Im.PROTOCOL_ICQ -> R.string.icq
+                    Im.PROTOCOL_MATRIX -> R.string.matrix
+                    Im.PROTOCOL_FEDIVERSE -> R.string.fediverse
+                    Im.PROTOCOL_INSTAGRAM -> R.string.instagram
                     else -> R.string.jabber
                 }
             )
