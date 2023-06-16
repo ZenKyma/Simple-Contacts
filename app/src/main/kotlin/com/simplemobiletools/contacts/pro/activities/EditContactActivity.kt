@@ -987,6 +987,9 @@ class EditContactActivity : ContactActivity() {
             RadioItem(Im.PROTOCOL_GOOGLE_TALK, getString(R.string.hangouts)),
             RadioItem(Im.PROTOCOL_ICQ, getString(R.string.icq)),
             RadioItem(Im.PROTOCOL_JABBER, getString(R.string.jabber)),
+            RadioItem(Im.PROTOCOL_MATRIX, getString(R.string.matrix)),
+            RadioItem(Im.PROTOCOL_FEDIVERSE, getString(R.string.fediverse)),
+            RadioItem(Im.PROTOCOL_INSTAGRAM, getString(R.string.instagram)),
             RadioItem(Im.PROTOCOL_CUSTOM, getString(R.string.custom))
         )
 
