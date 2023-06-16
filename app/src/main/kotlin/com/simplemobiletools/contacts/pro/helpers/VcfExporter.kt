@@ -135,6 +135,9 @@ class VcfExporter {
                         Im.PROTOCOL_GOOGLE_TALK -> Impp(HANGOUTS, it.value)
                         Im.PROTOCOL_QQ -> Impp(QQ, it.value)
                         Im.PROTOCOL_JABBER -> Impp(JABBER, it.value)
+                        Im.PROTOCOL_MATRIX -> Impp(MATRIX, it.value)
+                        Im.PROTOCOL_FEDIVERSE -> Impp(FEDIVERSE, it.value)
+                        Im.PROTOCOL_INSTAGRAM -> Impp(INSTAGRAM, it.value)
                         else -> Impp(it.label, it.value)
                     }
 
