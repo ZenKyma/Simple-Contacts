@@ -1,4 +1,4 @@
-# Simple Contacts Pro SE
+# Simple Contacts Pro SE with Matrix, Fediverse and Instagram fields
 <img alt="Logo" src="graphics/icon.png" width="120" />
 
 This extended version (<a href="https://f-droid.org/packages/de.ritscher.simplemobiletools.contacts.pro/">F-Droid</a>, <a href="https://github.
