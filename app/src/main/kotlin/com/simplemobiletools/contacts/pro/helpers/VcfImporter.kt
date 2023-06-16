@@ -181,6 +181,9 @@ class VcfImporter(val activity: SimpleActivity) {
                         typeString == HANGOUTS -> Im.PROTOCOL_GOOGLE_TALK
                         typeString == QQ -> Im.PROTOCOL_QQ
                         typeString == JABBER -> Im.PROTOCOL_JABBER
+                        typeString == MATRIX -> Im.PROTOCOL_MATRIX
+                        typeString == FEDIVERSE -> Im.PROTOCOL_FEDIVERSE
+                        typeString == INSTAGRAM -> Im.PROTOCOL_INSTAGRAM
                         else -> Im.PROTOCOL_CUSTOM
                     }
 
