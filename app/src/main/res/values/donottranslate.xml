@@ -3,17 +3,11 @@
     <string name="package_name">com.simplemobiletools.contacts.pro</string>
 
     <string name="im">IM</string>
-    <string name="aim">AIM</string>
-    <string name="windows_live">Windows Live</string>
-    <string name="yahoo">Yahoo</string>
     <string name="skype">Skype</string>
-    <string name="qq">QQ</string>
-    <string name="hangouts">Hangouts</string>
-    <string name="icq">ICQ</string>
-    <string name="jabber">Jabber</string>
+    <string name="matrix">Matrix</string>
     <string name="telegram">Telegram</string>
-    <string name="viber">Viber</string>
-
+    <string name="instagram">instagram</string>
+    
     <!-- Release notes -->
     <string name="release_56">Added an initial implementation of Speed Dial, contacts can be set in the app settings</string>
     <string name="release_47">Removed the setting for merging duplicate contacts, merge them always</string>
